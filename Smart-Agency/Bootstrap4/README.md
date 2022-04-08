@@ -2,3 +2,5 @@
 
 Creado por Diego Velázquez
 http://templune.com/
+
+Editado y modificado por David Romero Scozziero
